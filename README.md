@@ -1,5 +1,5 @@
 
-![Github](https://github.com/KumarVivekPathak/KumarVivekPathak/blob/main/BannerImage.png)
+![Github](https://github.com/KumarVivekPathak/KumarVivekPathak/blob/main/BackImage.png)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=turingAlan.turingAlan" />
 
@@ -11,19 +11,14 @@
 
 <img align="right" alt="hustle" width="420" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-
-- 🔭 I’m currently working on **exploring new things.**
-
-- 🌱 I’m currently learning **Socket DataBase Operating System**
-
 - 👯 I’m looking to collaborate on **open source projects.**
 
 - 💬 Ask me about **React Native, React, Node.js, Next**
 
 - ⚡ Fun fact **I'm a tech enthusiast with a deep passion for Hindi literature.**
 
-<div align="left" style="display: flex; align-items: center; gap: 15px;">
-  <h3 style="margin-right: 20px; font-family: Arial, sans-serif; color: #333;">Connect With Me:</h3>
+<div align="left" style="display: flex; align-items: center; gap: 15px; ">
+  <h3 style=" font-family: Arial, sans-serif; color: #333;">Connect With Me:</h3>
   <a href="mailto:vkpathak2025@gmail.com" style="display: inline-block; margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="width: 40px; height: 40px; border-radius: 5px; background-color: #f5f5f5; padding: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   </a>
@@ -33,7 +28,7 @@
 </div>
 
 
-<h3 align="center"> Languages-Frameworks-Tools: </h3>
+<h3 align="center" style="margin-top:20px;"> Languages-Frameworks-Tools: </h3>
 <div align='center'>
 
 <div align="center">
